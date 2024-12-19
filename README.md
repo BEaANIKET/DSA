@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
