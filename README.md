@@ -37,6 +37,7 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
