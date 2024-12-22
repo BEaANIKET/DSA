@@ -11,26 +11,26 @@ public:
 
         int components = 0;
 
-        // DFS function to calculate subtree sums
-        function<long long(int, int)> dfs = [&](int node, int parent) -> long long {
-            long long sum = values[node];
+        function<long long(int, int)> dfs = [&](int currNode, int parentNode) -> long long {
+            long long sum = 0;
 
-            for (int neighbor : adj[node]) {
-                if (neighbor != parent) {
-                    sum += dfs(neighbor, node);
+            for (auto edge : adj[currNode]) {
+                if (edge != parentNode) {
+                    sum += dfs(edge, currNode);
                 }
             }
 
-            // Check if the subtree sum is divisible by k
-            if (sum % k == 0) {
+            sum += values[currNode];
+            sum %= k;
+            if (sum == 0){
                 components++;
-                return 0; // Reset the sum for a new component
+                sum = 0;
+                return 0;
             }
 
-            return sum; // Return the current sum
+            return sum;
         };
 
-        // Start DFS from node 0
         dfs(0, -1);
 
         return components;
