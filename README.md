@@ -14,11 +14,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -54,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
