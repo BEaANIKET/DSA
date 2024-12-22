@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,11 +40,13 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +78,16 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/BEaANIKET/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
