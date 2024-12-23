@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BEaANIKET/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/BEaANIKET/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BEaANIKET/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BEaANIKET/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/BEaANIKET/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
