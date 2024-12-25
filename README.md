@@ -17,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/BEaANIKET/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
