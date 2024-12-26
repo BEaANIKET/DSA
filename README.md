@@ -8,6 +8,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BEaANIKET/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/BEaANIKET/DSA/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BEaANIKET/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BEaANIKET/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/BEaANIKET/DSA/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/BEaANIKET/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
