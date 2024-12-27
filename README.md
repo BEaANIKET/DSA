@@ -62,6 +62,7 @@
 | [0005-longest-palindromic-substring](https://github.com/BEaANIKET/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/BEaANIKET/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/BEaANIKET/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BEaANIKET/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/BEaANIKET/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Graph
 |  |
 | ------- |
