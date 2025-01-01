@@ -65,6 +65,7 @@
 | [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/BEaANIKET/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/BEaANIKET/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/BEaANIKET/DSA/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/BEaANIKET/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
