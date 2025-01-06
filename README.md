@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BEaANIKET/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/BEaANIKET/DSA/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
+| [0307-range-sum-query-mutable](https://github.com/BEaANIKET/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0494-target-sum](https://github.com/BEaANIKET/DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BEaANIKET/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
@@ -122,10 +123,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/BEaANIKET/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/BEaANIKET/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/BEaANIKET/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
@@ -160,4 +163,8 @@
 | [2358-number-of-ways-to-split-array](https://github.com/BEaANIKET/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/BEaANIKET/DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BEaANIKET/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/BEaANIKET/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
