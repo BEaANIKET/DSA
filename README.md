@@ -16,6 +16,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BEaANIKET/DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/BEaANIKET/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1524-string-matching-in-an-array](https://github.com/BEaANIKET/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BEaANIKET/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/BEaANIKET/DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -77,6 +78,7 @@
 | [0022-generate-parentheses](https://github.com/BEaANIKET/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/BEaANIKET/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
+| [1524-string-matching-in-an-array](https://github.com/BEaANIKET/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/BEaANIKET/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/BEaANIKET/DSA/tree/master/0307-range-sum-query-mutable) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/BEaANIKET/DSA/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
