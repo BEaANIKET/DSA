@@ -31,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/BEaANIKET/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/BEaANIKET/DSA/tree/master/0268-missing-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/BEaANIKET/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/BEaANIKET/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/BEaANIKET/DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/BEaANIKET/DSA/tree/master/1502-construct-k-palindrome-strings) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0022-generate-parentheses](https://github.com/BEaANIKET/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/BEaANIKET/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/BEaANIKET/DSA/tree/master/0205-isomorphic-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/BEaANIKET/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/BEaANIKET/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/BEaANIKET/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BEaANIKET/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -154,6 +157,7 @@
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/BEaANIKET/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BEaANIKET/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
