@@ -18,6 +18,7 @@
 | [1063-best-sightseeing-pair](https://github.com/BEaANIKET/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/BEaANIKET/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BEaANIKET/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1876-map-of-highest-peak](https://github.com/BEaANIKET/DSA/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BEaANIKET/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/BEaANIKET/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/BEaANIKET/DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BEaANIKET/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1876-map-of-highest-peak](https://github.com/BEaANIKET/DSA/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/BEaANIKET/DSA/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/BEaANIKET/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/BEaANIKET/DSA/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/BEaANIKET/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/BEaANIKET/DSA/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
